@@ -7,8 +7,12 @@ contiene 3 archivos
 
 "donquijote2.py" es un programa python donde se saca la puntuacion tf-idf y se muestran las 10 palabras con puntuacion mayor y las 10 con puntuacion menor, el resultado es mostrado en la terminal
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Carpeta "EjerciciosChapter6ExploringandVisualizingData"
 contiene ejercicios numerados donde se realizan los ejemplos proporcionados de un libro del capitulo 6 Exploring and Visualizing Data
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Carpeta "kairos_gpt3-master" ***IMPORTANTE*** no es mi codigo, credito completo a https://github.com/Shubhamsaboo/kairos_gpt3
 
