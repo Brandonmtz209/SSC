@@ -20,3 +20,7 @@ el codigo dentro de \kairos_gpt3-master\Programming_with_GPT-3\GPT-3_Python en e
 
 Chapter 3: GPT-3 AND PROGRAMMING page 63
 How to use OpenAI API with Python? page 63
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Carpeta "gpt3python" es un archivo de python que utiliza la api de open ai para utilizar el modelo de ia "gpt-3.5-turbo-0125" para uso general
