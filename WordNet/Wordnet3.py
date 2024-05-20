@@ -3,7 +3,7 @@ import nltk
 
 # Ahora podemos llamar la funcion para descargar a wordnet
 #(DESCOMENTAR SI ES LA PRIMERA EJECUCION)
-nltk.download('wordnet')
+#nltk.download('wordnet')
 # Importamos el corpus de WordNet de la biblioteca nltk
 from nltk.corpus import wordnet
 
