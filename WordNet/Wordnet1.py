@@ -1,5 +1,5 @@
 # Primero importamos el modulo NLTK
-#import nltk
+import nltk
 
 # Ahora podemos llamar la funcion para descargar a wordnet
 #(DESCOMENTAR SI ES LA PRIMERA EJECUCION)
