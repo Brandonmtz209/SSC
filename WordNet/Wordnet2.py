@@ -1,3 +1,9 @@
+# Primero importamos el modulo NLTK
+import nltk
+
+# Ahora podemos llamar la funcion para descargar a wordnet
+#(DESCOMENTAR SI ES LA PRIMERA EJECUCION)
+#nltk.download('wordnet')
 # Importar el módulo wordnet de la biblioteca NLTK
 from nltk.corpus import wordnet
 
