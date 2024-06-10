@@ -1,4 +1,6 @@
 import PyPDF2
+import nltk
+nltk.download('punkt')
 from nltk.tokenize import word_tokenize
 from nltk.probability import FreqDist
 import os
